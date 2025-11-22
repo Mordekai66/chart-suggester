@@ -1,4 +1,9 @@
 # Chart Suggester
+
+![Python](https://img.shields.io/badge/Python-3.8%2B-3776AB?logo=python&logoColor=white)
+![Data Visualization](https://img.shields.io/badge/Data-Visualization-FF6B35?logo=chartdotjs&logoColor=white)
+![MIT License](https://img.shields.io/badge/License-MIT-4DA51F?logo=opensourceinitiative&logoColor=white)
+
 Chart Suggester is a desktop application built with Python and Tkinter that simplifies the process of data visualization. By automatically analyzing your dataset's structure and content, it recommends the most suitable chart types and generates them with just a few clicks.
 
 
