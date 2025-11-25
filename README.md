@@ -1,6 +1,7 @@
 # Chart Suggester
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-3776AB?logo=python&logoColor=white)
+![GUI](https://img.shields.io/badge/GUI-Tkinter-orange)
 ![Data Visualization](https://img.shields.io/badge/Data-Visualization-FF6B35?logo=chartdotjs&logoColor=white)
 ![MIT License](https://img.shields.io/badge/License-MIT-4DA51F?logo=opensourceinitiative&logoColor=white)
 
